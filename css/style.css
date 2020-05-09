@@ -1443,7 +1443,11 @@ a:focus, a:hover {
 }
 
 .about .about-slider .item {
+  background-image: url('images/iphone-x-frame.png');
+  margin-left: 120px;
   padding: 20px;
+  width: 56%;
+  height: 56%;
 }
 
 .about .about-slider .owl-dots .owl-dot:hover span {
