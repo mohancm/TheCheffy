@@ -5,6 +5,11 @@
         // -----------------------------
         //  Testimonial Slider
         // -----------------------------
+
+        $(window).ready(function() {
+            $('#preloader').delay(300).fadeOut('fade');
+        });
+
         $('.testimonial-slider').owlCarousel({
             loop: true,
             margin: 20,
