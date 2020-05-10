@@ -1443,8 +1443,7 @@ a:focus, a:hover {
 }
 
 .about .about-slider .item {
-  background-image: url('images/iphone-x-frame.png');
-  margin-left: 120px;
+  margin-left: 115px;
   padding: 20px;
   width: 56%;
   height: 56%;
